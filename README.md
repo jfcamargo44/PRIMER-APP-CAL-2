@@ -2,8 +2,8 @@
 
 ## mi primer proyecto personal? 
 
-así se podria definir esto, considere que el paso sigueinte a un contador que era todo lo que habia visto en flutter era una calculadora, tambien pense que ya tenia suficiente conocimiento para hacerlo,
-no podia estar mas equivocado, la calcualdora resulto en un app  que puede hacer operaciones basicas, suma, resta, multipliación y división  pero con gran cantidad de falnecias y errores, la app paso por dos etapas, la construcción "funcional"  donde para mi fue importante que la app hicera las operaciones basicas ya mencionadas y luego paso por un lavado de cara, donde  se trato de hcer ver bonita.
+Así se podría definir esto, considere que el paso siguiente a un contador que era todo lo que había visto en flutter era una calculadora, también pensé que ya tenía suficiente conocimiento para hacerlo,
+no podía estar más equivocado, la calculadora resulto en un app que puede hacer operaciones básicas, suma, resta, multiplicación y división, pero con gran cantidad de falencias y errores, la app paso por dos etapas, la construcción "funcional" donde para mí fue importante que la app hiciera las operaciones básicas ya mencionadas y luego paso por un lavado de cara, donde se trató de hacer ver bonita.
 
 este es un proyecto inconcluso que espero poder mejorar a medida que mis conocimeintos incrementen.
 

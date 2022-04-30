@@ -7,9 +7,11 @@ no podia estar mas equivocado, la calcualdora resulto en un app  que puede hacer
 
 este es un proyecto inconcluso que espero poder mejorar a medida que mis conocimeintos incrementen.
 
-<i> primer aversion de mi calculadora
+<i> primera version de mi calculadora
 <p align="center"><img src = "/assets/imagenes/calculadorav1.jpg" alt="primera version de la app">
 
+<i> version mejorada de mi calculadora
+<p align="center"><img src = "/assets/imagenes/calculadorav2.jpg" alt="primera version de la app">
 
 
 

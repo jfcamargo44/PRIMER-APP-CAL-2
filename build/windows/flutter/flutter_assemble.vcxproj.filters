@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\WILLSON\Documents\PROYECTOS\FLUTTER\CURSO FLUTTER GUIA COMPLETA\5 HOLA MUNDO Y APP CONTADOR\calculadora\build\windows\CMakeFiles\a5a11e7c0b98e4503392356857b3b25d\flutter_windows.dll.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\WILLSON\Documents\PROYECTOS\FLUTTER\CURSO FLUTTER GUIA COMPLETA\5 HOLA MUNDO Y APP CONTADOR\calculadora\build\windows\CMakeFiles\a3c59a67efaca0ab234c6a5a2b104b9c\flutter_assemble.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\WILLSON\Documents\PROYECTOS\FLUTTER\CURSO FLUTTER GUIA COMPLETA\5 HOLA MUNDO Y APP CONTADOR\calculadora\windows\flutter\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\WILLSON\Documents\PROYECTOS\FLUTTER\CURSO FLUTTER GUIA COMPLETA\5 HOLA MUNDO Y APP CONTADOR\calculadora\build\windows\flutter\CMakeFiles\flutter_assemble" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{FBA41EC1-C037-3315-9BD8-78201478D8FE}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,8 @@
+C:/Users/WILLSON/Documents/PROYECTOS/FLUTTER/CURSO FLUTTER GUIA COMPLETA/5 HOLA MUNDO Y APP CONTADOR/calculadora/build/windows/runner/Debug/data/icudtl.dat
+C:/Users/WILLSON/Documents/PROYECTOS/FLUTTER/CURSO FLUTTER GUIA COMPLETA/5 HOLA MUNDO Y APP CONTADOR/calculadora/build/windows/runner/Debug/flutter_windows.dll
+C:/Users/WILLSON/Documents/PROYECTOS/FLUTTER/CURSO FLUTTER GUIA COMPLETA/5 HOLA MUNDO Y APP CONTADOR/calculadora/build/windows/runner/Debug/data/flutter_assets/AssetManifest.json
+C:/Users/WILLSON/Documents/PROYECTOS/FLUTTER/CURSO FLUTTER GUIA COMPLETA/5 HOLA MUNDO Y APP CONTADOR/calculadora/build/windows/runner/Debug/data/flutter_assets/FontManifest.json
+C:/Users/WILLSON/Documents/PROYECTOS/FLUTTER/CURSO FLUTTER GUIA COMPLETA/5 HOLA MUNDO Y APP CONTADOR/calculadora/build/windows/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+C:/Users/WILLSON/Documents/PROYECTOS/FLUTTER/CURSO FLUTTER GUIA COMPLETA/5 HOLA MUNDO Y APP CONTADOR/calculadora/build/windows/runner/Debug/data/flutter_assets/kernel_blob.bin
+C:/Users/WILLSON/Documents/PROYECTOS/FLUTTER/CURSO FLUTTER GUIA COMPLETA/5 HOLA MUNDO Y APP CONTADOR/calculadora/build/windows/runner/Debug/data/flutter_assets/NOTICES.Z
+C:/Users/WILLSON/Documents/PROYECTOS/FLUTTER/CURSO FLUTTER GUIA COMPLETA/5 HOLA MUNDO Y APP CONTADOR/calculadora/build/windows/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf

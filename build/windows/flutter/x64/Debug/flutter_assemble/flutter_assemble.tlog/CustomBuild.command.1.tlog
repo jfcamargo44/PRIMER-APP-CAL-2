@@ -1,0 +1,28 @@
+^C:\USERS\WILLSON\DOCUMENTS\PROYECTOS\FLUTTER\CURSO FLUTTER GUIA COMPLETA\5 HOLA MUNDO Y APP CONTADOR\CALCULADORA\BUILD\WINDOWS\CMAKEFILES\A5A11E7C0B98E4503392356857B3B25D\FLUTTER_WINDOWS.DLL.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E env FLUTTER_ROOT=C:\flutter "PROJECT_DIR=C:\Users\WILLSON\Documents\PROYECTOS\FLUTTER\CURSO FLUTTER GUIA COMPLETA\5 HOLA MUNDO Y APP CONTADOR\calculadora" FLUTTER_ROOT=C:\flutter "FLUTTER_EPHEMERAL_DIR=C:\Users\WILLSON\Documents\PROYECTOS\FLUTTER\CURSO FLUTTER GUIA COMPLETA\5 HOLA MUNDO Y APP CONTADOR\calculadora\windows\flutter\ephemeral" "PROJECT_DIR=C:\Users\WILLSON\Documents\PROYECTOS\FLUTTER\CURSO FLUTTER GUIA COMPLETA\5 HOLA MUNDO Y APP CONTADOR\calculadora" "FLUTTER_TARGET=C:\Users\WILLSON\Documents\PROYECTOS\FLUTTER\CURSO FLUTTER GUIA COMPLETA\5 HOLA MUNDO Y APP CONTADOR\calculadora\lib\main.dart" DART_DEFINES=RkxVVFRFUl9XRUJfQVVUT19ERVRFQ1Q9dHJ1ZQ== DART_OBFUSCATION=false TRACK_WIDGET_CREATION=true TREE_SHAKE_ICONS=false "PACKAGE_CONFIG=C:\Users\WILLSON\Documents\PROYECTOS\FLUTTER\CURSO FLUTTER GUIA COMPLETA\5 HOLA MUNDO Y APP CONTADOR\calculadora\.dart_tool\package_config.json" C:/flutter/packages/flutter_tools/bin/tool_backend.bat windows-x64 Debug
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\WILLSON\DOCUMENTS\PROYECTOS\FLUTTER\CURSO FLUTTER GUIA COMPLETA\5 HOLA MUNDO Y APP CONTADOR\CALCULADORA\BUILD\WINDOWS\CMAKEFILES\A3C59A67EFACA0AB234C6A5A2B104B9C\FLUTTER_ASSEMBLE.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\WILLSON\DOCUMENTS\PROYECTOS\FLUTTER\CURSO FLUTTER GUIA COMPLETA\5 HOLA MUNDO Y APP CONTADOR\CALCULADORA\WINDOWS\FLUTTER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SC:/Users/WILLSON/Documents/PROYECTOS/FLUTTER/CURSO FLUTTER GUIA COMPLETA/5 HOLA MUNDO Y APP CONTADOR/calculadora/windows" "-BC:/Users/WILLSON/Documents/PROYECTOS/FLUTTER/CURSO FLUTTER GUIA COMPLETA/5 HOLA MUNDO Y APP CONTADOR/calculadora/build/windows" --check-stamp-file "C:/Users/WILLSON/Documents/PROYECTOS/FLUTTER/CURSO FLUTTER GUIA COMPLETA/5 HOLA MUNDO Y APP CONTADOR/calculadora/build/windows/flutter/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
